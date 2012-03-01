@@ -1,0 +1,48 @@
+Move Canada
+Software Test Engineer 
+Homework Assignment 
+February 2012
+
+
+Automated Testing Test: Magic Square.
+==============================
+Problem
+-----------
+Build a program (A) that tests another program (B) designed to accept
+a N by M grid of numbers and determines if all the rows and all the 
+columns sum up to the same value.
+Examples
+------------
+example runs of program B:
+1.
+	input:
+	  1 1
+	  1 1
+	output:
+	  yes
+2.
+	input:
+	  1 2
+	  2 1
+	output: 
+	  yes
+3.
+	input:
+	  1 2
+	  2 3
+	output:
+	  no
+example runs of program A:
+where B is correctly working:
+c:\>A.exe B.exe
+ok
+where B is incorrectly working:
+C:\>A.exe B.exe
+not ok:
+  1 1
+  1 1
+returned: no
+expected: yes
+Submission
+--------------
+Post you code (and any instructions needed to make it function) to your personal http://github.com account in its own repository and submit a link to the repository.

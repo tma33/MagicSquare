@@ -1,0 +1,10 @@
+F:\Looking for job\2012-02-19 Top Producer again\AB\B\B\bin\Debug\B.exe
+F:\Looking for job\2012-02-19 Top Producer again\AB\B\B\bin\Debug\B.pdb
+F:\Looking for job\2012-02-19 Top Producer again\AB\B\B\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Looking for job\2012-02-19 Top Producer again\AB\B\B\obj\x86\Debug\B.exe
+F:\Looking for job\2012-02-19 Top Producer again\AB\B\B\obj\x86\Debug\B.pdb
+F:\ABTest\AB\B\B\obj\x86\Debug\B.exe
+F:\ABTest\AB\B\B\obj\x86\Debug\B.pdb
+F:\ABTest\AB\B\B\bin\Debug\B.exe
+F:\ABTest\AB\B\B\bin\Debug\B.pdb
+F:\ABTest\AB\B\B\obj\x86\Debug\ResolveAssemblyReference.cache
